@@ -2,5 +2,5 @@
 
 ## Soy Ingeniero de Sistemas y Computación
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanandresariasutp)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanandresariasutp)](https://github.com/SrGobi/github-readme-stats)
 
