@@ -1,7 +1,33 @@
-### ¡Hola a todos! Mi nombre es Juan Andrés Arias 👋
+### 👋 Hola, soy Juan Andrés Arias
 
-## Soy Ingeniero de Sistemas y Computación
+Ingeniero de Sistemas y Computación con enfoque en desarrollo web, diseño de interfaces y soluciones digitales centradas en el usuario.  
+Combino habilidades técnicas con experiencia creativa en fotografía profesional.
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanandresariasutp&show_icons=true&theme=tokyonight&hide_border=true)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanandresariasutp&layout=compact&theme=tokyonight&hide_border=true)
+### 💻 Tecnologías y herramientas
+- HTML, CSS, JavaScript
+- React, Vite
+- Git & GitHub
+- Node.js (nivel básico/intermedio)
+- UX/UI fundamentals
+
+---
+
+### 📸 Fotografía
+- Fotografía de eventos
+- Fotografía deportiva
+- Fotografía gastronómica
+- Retratos
+
+---
+
+### 🚀 Proyectos destacados
+- Portafolio web de fotografía (React + GitHub Pages)
+- Proyectos académicos de ingeniería de software
+
+---
+
+📫 **Contacto**
+- WhatsApp: [Enlace directo]
+- Portafolio: [URL cuando esté lista]
