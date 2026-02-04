@@ -2,6 +2,6 @@
 
 ## Soy Ingeniero de Sistemas y Computación
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanandresariasutp)](https://github.com/SrGobi/github-readme-stats)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanandresariasutp&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanandresariasutp)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanandresariasutp&layout=compact&theme=tokyonight&hide_border=true)
