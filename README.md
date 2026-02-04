@@ -1,33 +1,16 @@
 ### 👋 Hola, soy Juan Andrés Arias
 
-Ingeniero de Sistemas y Computación con enfoque en desarrollo web, diseño de interfaces y soluciones digitales centradas en el usuario.  
-Combino habilidades técnicas con experiencia creativa en fotografía profesional.
+Ingeniero de Sistemas y Computación | Desarrollador Web | Fotógrafo
+
+![HTML](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
 
 ---
 
-### 💻 Tecnologías y herramientas
-- HTML, CSS, JavaScript
-- React, Vite
-- Git & GitHub
-- Node.js (nivel básico/intermedio)
-- UX/UI fundamentals
+🧠 Desarrollo de aplicaciones web modernas  
+📷 Fotografía profesional de eventos y deportes  
+🎯 Enfoque en diseño limpio y funcional
 
----
-
-### 📸 Fotografía
-- Fotografía de eventos
-- Fotografía deportiva
-- Fotografía gastronómica
-- Retratos
-
----
-
-### 🚀 Proyectos destacados
-- Portafolio web de fotografía (React + GitHub Pages)
-- Proyectos académicos de ingeniería de software
-
----
-
-📫 **Contacto**
-- WhatsApp: [Enlace directo]
-- Portafolio: [URL cuando esté lista]
