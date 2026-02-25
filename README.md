@@ -1,6 +1,6 @@
 ### 👋 Hola, soy Juan Andrés Arias
 
-Ingeniero de Sistemas y Computación | Desarrollador Web | Fotógrafo
+Ingeniero de Sistemas y Computación | Desarrollador Web
 
 ![HTML](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
@@ -11,6 +11,5 @@ Ingeniero de Sistemas y Computación | Desarrollador Web | Fotógrafo
 ---
 
 🧠 Desarrollo de aplicaciones web modernas  
-📷 Fotografía profesional de eventos y deportes  
 🎯 Enfoque en diseño limpio y funcional
 
