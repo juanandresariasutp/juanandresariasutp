@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Juan Andrés Arias</h1>
-<h3 align="center">Full Stack Developer | Ingeniero de Sistemas y Computación en formación</h3>
+<h3 align="center">Ingeniero de Sistemas y Computación | Full Stack Developer en formación</h3>
 
 ---
 
@@ -61,9 +61,9 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=juanandresariasutp&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanandresariasutp&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -73,7 +73,7 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=juanandresariasutp&theme=tokyonight"/>
 
 </p>
 
@@ -83,7 +83,7 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 
 <p>
 
-<a href="www.linkedin.com/in/juan-andrés-arias-tascón-328704280">
+<a href="www.linkedin.com/in/juan-andrés-arias-tascón">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
