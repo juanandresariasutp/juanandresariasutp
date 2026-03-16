@@ -83,7 +83,7 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 
 <p>
 
-<a href="www.linkedin.com/in/juan-andrés-arias-tascón">
+<a href="[www.linkedin.com/in/juan-andrés-arias-tascón](https://www.linkedin.com/in/juan-andr%C3%A9s-arias-tasc%C3%B3n-328704280/)">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
