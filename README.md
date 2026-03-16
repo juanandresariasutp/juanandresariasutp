@@ -106,11 +106,32 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 
 # 📌 Proyectos destacados
 
-Aquí irán algunos de mis proyectos más importantes.
+<p align="center">
 
-- 🚀 **Proyecto 1** – Aplicación web con React y Node.js  
-- 📊 **Proyecto 2** – API REST con Express y PostgreSQL  
-- ⚙️ **Proyecto 3** – Backend documentado con Swagger  
+<a href="https://github.com/juanandresariasutp/ProyectoM2_JuanArias">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresariasutp&repo=ProyectoM2_JuanArias&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/juanandresariasutp/ProyectoM1_JuanArias">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresariasutp&repo=ProyectoM1_JuanArias&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/juanandresariasutp/portfolio-fotografia">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresariasutp&repo=portfolio-fotografia&theme=tokyonight" />
+</a>
+
+</p>
+
+### 🚀 Descripción de proyectos
+
+**📦 ProyectoM2_JuanArias**  
+Backend desarrollado con **Node.js, Express y PostgreSQL**, enfocado en la construcción de APIs REST aplicando buenas prácticas de arquitectura, testing y documentación.
+
+**⚙️ ProyectoM1_JuanArias**  
+Proyecto académico enfocado en la construcción de un generador de paleta de colores responsive usando HTML semántico, CSS y JavaScript.
+
+**🌐 Portafolio Fotografía**  
+Sitio web desarrollado como **portfolio visual**, enfocado en la presentación de contenido con un diseño limpio y experiencia de usuario clara.
 
 ---
 
