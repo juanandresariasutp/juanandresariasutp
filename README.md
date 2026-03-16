@@ -1,9 +1,17 @@
 <h1 align="center">Hola 👋, soy Juan Andrés Arias</h1>
 <h3 align="center">Ingeniero de Sistemas y Computación | Full Stack Developer en formación</h3>
 
+<p align="center">
+Desarrollador apasionado por construir aplicaciones web modernas, escalables y bien estructuradas.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=juanandresariasutp&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
-## 👨‍💻 Sobre mí
+# 👨‍💻 Sobre mí
 
 Soy un desarrollador **Full Stack orientado al Frontend**, apasionado por crear **soluciones web modernas, funcionales y bien estructuradas**.
 
@@ -13,40 +21,47 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 
 ---
 
-## 🚀 Tecnologías y herramientas
+# 🚀 Tecnologías y herramientas
 
 ### Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Base de datos
+
 <p>
 <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
-### Herramientas de desarrollo
+### Herramientas
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ### Testing y documentación
+
 <p>
 
 ![Vitest](https://img.shields.io/badge/Vitest-Testing-6E9F18?style=for-the-badge&logo=vitest)
+
 ![Supertest](https://img.shields.io/badge/Supertest-API_Testing-black?style=for-the-badge)
+
 ![Swagger](https://img.shields.io/badge/Swagger-API_Documentation-85EA2D?style=for-the-badge&logo=swagger)
 
 </p>
 
 ---
 
-## 🧠 Enfoque de desarrollo
+# 🧠 Enfoque de desarrollo
 
 - Desarrollo **Full Stack con enfoque en Frontend**
 - Creación de **APIs REST**
@@ -57,19 +72,19 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 📊 Estadísticas de GitHub
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=juanandresariasutp&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=juanandresariasutp&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanandresariasutp&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanandresariasutp&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 Racha de contribuciones
+# 🔥 Racha de contribuciones
 
 <p align="center">
 
@@ -79,7 +94,27 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 
 ---
 
-## 🌎 Conecta conmigo
+# 📈 Actividad
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanandresariasutp&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📌 Proyectos destacados
+
+Aquí irán algunos de mis proyectos más importantes.
+
+- 🚀 **Proyecto 1** – Aplicación web con React y Node.js  
+- 📊 **Proyecto 2** – API REST con Express y PostgreSQL  
+- ⚙️ **Proyecto 3** – Backend documentado con Swagger  
+
+---
+
+# 🌎 Conecta conmigo
 
 <p>
 
@@ -95,7 +130,15 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 
 ---
 
-## 💡 Filosofía
+# 🎯 Actualmente
+
+- Aprendiendo más sobre **arquitectura backend**
+- Construyendo **proyectos Full Stack**
+- Mejorando mis habilidades en **React y Node.js**
+
+---
+
+# 💡 Filosofía
 
 > "La tecnología es una herramienta poderosa cuando se utiliza para crear soluciones que realmente aporten valor."
 
