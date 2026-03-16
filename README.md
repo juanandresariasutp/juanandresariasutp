@@ -37,16 +37,10 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-<p>
-
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-Database%20Manager-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-
-</p>
-
 ### Herramientas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,copilot,claude" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion" />
 </p>
 
 ### Testing y documentación
