@@ -28,19 +28,25 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
 </p>
 
 ### Base de datos
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+<p>
+
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-Database%20Manager-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+
 </p>
 
 ### Herramientas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,copilot,claude" />
 </p>
 
 ### Testing y documentación
