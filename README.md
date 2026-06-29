@@ -22,25 +22,25 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,bootstrap" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,php,python,docker,npm,cpp,c" />
 </p>
 
 ### Base de datos
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,fastapi,firebase" />
 </p>
 
 ### Herramientas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion,discord,ai,vercel" />
 </p>
 
 ### Testing y documentación
@@ -69,56 +69,69 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 ---
 ## 🚀 Proyectos Destacados
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 💱 SwapCoin
+### 💵 SwapCoin
 
 **Billetera Digital y Plataforma de Cambio de Divisas**
 
-Aplicación web Full Stack diseñada para facilitar la gestión de dinero a viajeros y nómadas digitales. Permite administrar billeteras multidivisa, realizar cambios de moneda, controlar gastos y establecer metas de ahorro dentro de una experiencia segura e intuitiva.
+Aplicación Full Stack enfocada en viajeros y nómadas digitales. Permite gestionar billeteras multidivisa, realizar cambios de moneda, controlar gastos y establecer metas de ahorro.
 
-**Tecnologías:** React, TypeScript, Node.js, Express, PostgreSQL, JWT
+**Tecnologías**
 
-🔗 **Repositorio:** Próximamente
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL`
+
+<br>
+
+<a href="https://swap-coin-frontend.vercel.app/">🌐 Demo</a> •
+<a href="https://github.com/swapcoinn-droid/Swap-Coin-Frontend">💻 Código</a>
 
 </td>
 
-<td width="50%">
+<td width="33%" valign="top">
 
 ### 🛒 Creati Store
 
 **E-commerce SPA**
 
-Aplicación de comercio electrónico desarrollada como una Single Page Application. Incluye autenticación, catálogo de productos, carrito de compras, checkout, historial de pedidos y un panel de administración para gestionar productos y órdenes. Además, implementa carga segura de imágenes mediante AWS S3.
+Aplicación de comercio electrónico con autenticación, catálogo de productos, carrito de compras, checkout, historial de pedidos y panel de administración.
 
-**Tecnologías:** React, TypeScript, Firebase, Firestore, AWS S3, Tailwind CSS, Vite
+**Tecnologías**
 
-🔗 **Repositorio:** https://github.com/juanandresariasutp/ProyectoM5_JuanArias
-🌐 **Demo:** https://proyecto-m5-sable.vercel.app/
+`React` `TypeScript` `Firebase` `Tailwind CSS` `AWS S3`
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td colspan="2">
-
-### 👑 Vegeta Chat SPA
-
-**Chat con IA basado en Google Gemini**
-
-Aplicación SPA desarrollada con JavaScript Vanilla que permite conversar con Vegeta manteniendo su personalidad característica. Implementa navegación con History API, funciones serverless para proteger la API Key y pruebas unitarias con Vitest.
-
-**Tecnologías:** JavaScript, Vite, Google Gemini API, Vercel Functions, Vitest
-
-🔗 **Repositorio:** https://github.com/juanandresariasutp/ProyectoM3_JuanArias
-🌐 **Demo:** https://vegeta-chat-spa.vercel.app/
+<a href="https://proyecto-m5-sable.vercel.app/">🌐 Demo</a> • <a href="https://github.com/juanandresariasutp/ProyectoM5_JuanArias">💻 Código</a>
 
 </td>
+
+<td width="33%" valign="top">
+
+### 👑 Vegeta Chat
+
+**SPA con IA**
+
+Chat basado en Google Gemini que mantiene la personalidad de Vegeta. Implementa SPA con History API, backend serverless y pruebas con Vitest.
+
+**Tecnologías**
+
+`JavaScript` `Gemini API` `Vite` `Vitest`
+
+<br>
+
+<a href="https://vegeta-chat-spa.vercel.app/">🌐 Demo</a> • <a href="https://github.com/juanandresariasutp/ProyectoM3_JuanArias">💻 Código</a>
+
+</td>
+
 </tr>
 </table>
 
+</div>
 
 ---
 
