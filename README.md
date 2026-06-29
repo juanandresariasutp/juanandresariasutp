@@ -68,37 +68,6 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 
 ---
 
-# 📊 Estadísticas de GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=juanandresariasutp&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanandresariasutp&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 Racha de contribuciones
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=juanandresariasutp&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Actividad
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanandresariasutp&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 📌 Proyectos destacados
 
@@ -144,11 +113,3 @@ Sitio web desarrollado como **portfolio visual**, enfocado en la presentación d
 </a>
 
 </p>
-
----
-
-# 🎯 Actualmente
-
-- Aprendiendo más sobre **arquitectura backend**
-- Construyendo **proyectos Full Stack**
-- Mejorando mis habilidades en **React y Node.js**
