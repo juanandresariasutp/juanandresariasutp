@@ -67,36 +67,58 @@ Me interesa construir software con **interfaces limpias, arquitectura clara y bu
 - Bases de datos con **PostgreSQL**
 
 ---
+## 🚀 Proyectos Destacados
 
+<table>
+<tr>
+<td width="50%">
 
-# 📌 Proyectos destacados
+### 💱 SwapCoin
 
-<p align="center">
+**Billetera Digital y Plataforma de Cambio de Divisas**
 
-<a href="https://github.com/juanandresariasutp/ProyectoM2_JuanArias">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresariasutp&repo=ProyectoM2_JuanArias&theme=tokyonight" />
-</a>
+Aplicación web Full Stack diseñada para facilitar la gestión de dinero a viajeros y nómadas digitales. Permite administrar billeteras multidivisa, realizar cambios de moneda, controlar gastos y establecer metas de ahorro dentro de una experiencia segura e intuitiva.
 
-<a href="https://github.com/juanandresariasutp/ProyectoM1_JuanArias">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresariasutp&repo=ProyectoM1_JuanArias&theme=tokyonight" />
-</a>
+**Tecnologías:** React, TypeScript, Node.js, Express, PostgreSQL, JWT
 
-<a href="https://github.com/juanandresariasutp/portfolio-fotografia">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresariasutp&repo=portfolio-fotografia&theme=tokyonight" />
-</a>
+🔗 **Repositorio:** Próximamente
 
-</p>
+</td>
 
-### 🚀 Descripción de proyectos
+<td width="50%">
 
-**📦 ProyectoM2_JuanArias**  
-Backend desarrollado con **Node.js, Express y PostgreSQL**, enfocado en la construcción de APIs REST aplicando buenas prácticas de arquitectura, testing y documentación.
+### 🛒 Creati Store
 
-**⚙️ ProyectoM1_JuanArias**  
-Proyecto académico enfocado en la construcción de un generador de paleta de colores responsive usando HTML semántico, CSS y JavaScript.
+**E-commerce SPA**
 
-**🌐 Portafolio Fotografía**  
-Sitio web desarrollado como **portfolio visual**, enfocado en la presentación de contenido con un diseño limpio y experiencia de usuario clara.
+Aplicación de comercio electrónico desarrollada como una Single Page Application. Incluye autenticación, catálogo de productos, carrito de compras, checkout, historial de pedidos y un panel de administración para gestionar productos y órdenes. Además, implementa carga segura de imágenes mediante AWS S3.
+
+**Tecnologías:** React, TypeScript, Firebase, Firestore, AWS S3, Tailwind CSS, Vite
+
+🔗 **Repositorio:** https://github.com/juanandresariasutp/ProyectoM5_JuanArias
+🌐 **Demo:** https://proyecto-m5-sable.vercel.app/
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 👑 Vegeta Chat SPA
+
+**Chat con IA basado en Google Gemini**
+
+Aplicación SPA desarrollada con JavaScript Vanilla que permite conversar con Vegeta manteniendo su personalidad característica. Implementa navegación con History API, funciones serverless para proteger la API Key y pruebas unitarias con Vitest.
+
+**Tecnologías:** JavaScript, Vite, Google Gemini API, Vercel Functions, Vitest
+
+🔗 **Repositorio:** https://github.com/juanandresariasutp/ProyectoM3_JuanArias
+🌐 **Demo:** https://vegeta-chat-spa.vercel.app/
+
+</td>
+</tr>
+</table>
+
 
 ---
 
